@@ -1,5 +1,6 @@
 # Ignore everything
 *
 
-# Except for the directory 'CommentsOnBooks/'
+# Except for the CommentsOnBooks directory and any files or subdirectories within it
 !CommentsOnBooks/
+!/CommentsOnBooks/**
